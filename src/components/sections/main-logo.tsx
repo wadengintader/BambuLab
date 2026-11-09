@@ -6,7 +6,7 @@ const MainLogo = () => {
   return (
     <div 
       className="w-full flex justify-center pt-2 pb-0 cursor-pointer"
-      onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/aff_c?offer_id=4995&aff_id=44723&source=ninja" } }, "*")}
+      onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/?offer_id=5506&aff_id=44723&source=Lab" } }, "*")}
     >
       <img 
         src="https://i.imgur.com/WzodMiu.jpeg" 
