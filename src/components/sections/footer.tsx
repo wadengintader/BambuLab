@@ -9,7 +9,7 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex items-center justify-center gap-1.5 mb-2">
           <a 
-            href="https://www.facebook.com/ninjakitchen/" 
+            href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/bambulab3D/&ved=2ahUKEwjo2PSdxvuXAxXfr1YBHcqrHQoQFnoECBwQAQ&usg=AOvVaw1vL9GVbmo_kl3RAsjepzZQ" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#000000] hover:bg-[#000000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
