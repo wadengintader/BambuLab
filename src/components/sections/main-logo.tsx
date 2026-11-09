@@ -11,7 +11,7 @@ const MainLogo = () => {
       <img 
         src="https://i.imgur.com/7ttwk6C.png" 
         alt="Bambu Lab Logo" 
-        className="h-15 sm:h-23 w-25 object-contain transition-all duration-700 hover:brightness-110"
+        className="h-8 sm:h-30 w-30 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
   );
