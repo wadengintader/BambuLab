@@ -62,7 +62,7 @@ const HeroBranding = () => {
         <div className="relative">
             <h1 className="text-[18px] md:text-[24px] font-extrabold leading-tight tracking-tight flex items-center justify-center gap-x-2 flex-wrap font-poppins">
             <span className="text-[#000000]">Unlock</span>
-            <span className="text-[#000000]">Ninja Kitchen Rewards</span>
+            <span className="text-[#000000]">Bambu Lab Rewards</span>
             <div className="flex items-center -ml-1">
               <Gift className="w-5 h-5 text-[#000000] fill-transparent" />
             </div>
